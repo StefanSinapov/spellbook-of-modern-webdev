@@ -834,6 +834,8 @@ A Subset for __Architecture and Infrastructure__
     * Changelog
       * [Conventional Commits](https://conventionalcommits.org/)
       * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
+      * [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator)
+      * [Git Release Notes](https://github.com/gittools/gitreleasenotes)
     * License
       * [Choose an open source license](https://choosealicense.com/)
   * SemVer
